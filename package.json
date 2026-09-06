@@ -114,6 +114,7 @@
     "thenby": "^1.4.1",
     "ua-parser-js": "^2.0.10",
     "uuid": "^14.0.1",
+    "world-countries": "5.1.0",
     "zod": "^4.4.3",
     "zustand": "^5.0.14"
   },
